@@ -1,14 +1,12 @@
+baseURL = "https://partigabor.github.io/cv"
+title = "CV"
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 languageCode = "en-us"
+publishDir = "docs"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
-
-theme = "almeida-cv"
-disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
-
-baseURL = "https://partigabor.github.io/cv"
-title = "CV"
-#googleAnalytics = ""
 
 [params] # and colors
 enableMetaTags = true
