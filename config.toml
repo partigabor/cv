@@ -1,0 +1,29 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://partigabor.github.io/cv"
+title = "CV"
+#googleAnalytics = ""
+
+[params] # and colors
+enableMetaTags = true
+colorLight = "#ffffff" # main paper
+colorDark = "#181818" # main text
+colorPageBackground = "#121212" # page bg
+colorPrimary = "#8f1329" # last name
+colorSecondary = "#181818" # first name
+colorIconPrimary = "#ffffff" # icon text
+colorIconBackground = "#8f1329" # icon color
+colorRightColumnBackground = "#EEEEEE"
+colorRightColumnHeadingText = "#181818"
+colorRightColumnBodyText = "#181818"
+colorRightColumnIconPrimary = "#ffffff"
+colorRightColumnIconBackground = "#8f1329" 
+pages = 1
+
+# https://github.com/ineesalmeida/almeida-cv
