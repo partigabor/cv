@@ -58,26 +58,29 @@ Profile: Lorem ipsum dolor sit amet...
 #           - Nisl tincidunt eget nullam non nisi est
 #         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
+ 
+
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: BA in Arabian Studies, Eastern Languages and Cultures
+    Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
+    Date: Sep 2009 - July 2014
+    Details: East-Asian minor
 
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: BA in Korean Studies, Eastern Languages and Cultures
+    Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
+    Date: Sep 2009 - Jan 2014
+    Details: Finnish minor
 
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: MA in Islamic Studies
+    Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
+    Date: Sep 2014 - July 2017
+    Details: Details
 
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: PhD in East Asian Linguistics
+    Place: The Hong Kong Polytechnic University (PolyU) | Hong Kong
+    Date: Sep 2019 - 
+    Details: 
+
 
 # References:
 #   - Name: Person One
