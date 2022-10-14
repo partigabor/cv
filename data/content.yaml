@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hong Kong
 
-Profile: Lorem ipsum dolor sit amet...
+Profile: A fresh PhD graduate from Hungary working on ... 
 
 # Experience:
 #   - Employer: Super Cool Company
@@ -61,37 +61,37 @@ Profile: Lorem ipsum dolor sit amet...
  
 
 Education:
-  - Course: BA in Arabian Studies, Eastern Languages and Cultures
+  - Course: PhD in East Asian Linguistics
+    Place: The Hong Kong Polytechnic University (PolyU) | Hong Kong
+    Date: Sep 2019 - 
+    Details: Corpus Linguistics, Computational Linguistics, Digital Philology
+
+  - Course: MA in Islamic Studies
     Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
-    Date: Sep 2009 - July 2014
-    Details: East-Asian minor
+    Date: Sep 2014 - July 2017
+    Details: Islamic literature, law, history, and culture; Arabic, Persian, Turkish, Urdu
 
   - Course: BA in Korean Studies, Eastern Languages and Cultures
     Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
     Date: Sep 2009 - Jan 2014
     Details: Finnish minor
 
-  - Course: MA in Islamic Studies
+  - Course: BA in Arabian Studies, Eastern Languages and Cultures
     Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
-    Date: Sep 2014 - July 2017
-    Details: Details
-
-  - Course: PhD in East Asian Linguistics
-    Place: The Hong Kong Polytechnic University (PolyU) | Hong Kong
-    Date: Sep 2019 - 
-    Details: 
+    Date: Sep 2009 - July 2014
+    Details: East-Asian minor
 
 
-# References:
-#   - Name: Person One
-#     Relation: Co-worker at Super Cool Company
-#     Contacts:
-#     - Icon: fas fa-phone
-#       Info: +44 123 456 790
-#     - Icon: fas fa-envelope
-#       Info: contact@person-one.com
-#     - Icon: fas fa-map-marker-alt
-#       Info: Melbourne, Australia
+References:
+  - Name: Prof. HUANG Chu-Ren
+    Relation: Supervisor at PolyU
+    Contacts:
+    # - Icon: fas fa-phone
+    #   Info: +44 123 456 790
+    - Icon: fas fa-envelope
+      Info: churen.huang@polyu.edu.hk
+    - Icon: fas fa-map-marker-alt
+      Info: Hong Kong
 #   - Name: Person Two
 #     Relation: Boss at Super Cool Company
 #     Contacts:
@@ -107,16 +107,13 @@ Skills:
   - Family: Programming
     Items:
       - Python
-  # - Family: Frameworks
-  #   Items:
-  #     - Django
-  #     - Flask
-  #     - Hugo
-  #     - React
+  - Family: Frameworks
+    Items:
+      - Hugo
   - Family: Developer Tools
     Items:
       - Git
-  - Family: Misc
+  - Family: Text Editing/Typesetting
     Items:
       - LaTeX
 
@@ -132,10 +129,13 @@ Languages:
   - Name: Indonesian
     Level: B1
 
-# Diplomas:
-#   - ISTQB Tester Certification (2019)
-#   - English Cambridge CAE (2009)
+Diplomas:
+  - IELTS (2019)
 
 Interests:
-  - Cooking
   - Languages
+  - Cooking
+  - Coding
+  - Plants
+  - Maps & Flags
+  - Black Metal
