@@ -6,13 +6,13 @@ BasicInfo:
     # - Icon: fas fa-phone
     #   Info: +852 940 555 46
     - Icon: fas fa-envelope
-      Info: gabor.parti@connect.polyu.hk
+      Info: partigaborhk@gmail.com
     - Icon: fas fa-globe
       Info: www.partigabor.github.io
     - Icon: fas fa-map-marker-alt
       Info: Hong Kong
 
-Profile: A fresh PhD graduate from Hungary working on ... 
+Profile: PhD candidate from Hungary working on the diffusion and history of spices and spice names across languages, using language technology and traditional philological research.
 
 # Experience:
 #   - Employer: Super Cool Company
@@ -58,40 +58,48 @@ Profile: A fresh PhD graduate from Hungary working on ...
 #           - Nisl tincidunt eget nullam non nisi est
 #         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
- 
-
 Education:
   - Course: PhD in East Asian Linguistics
     Place: The Hong Kong Polytechnic University (PolyU) | Hong Kong
-    Date: Sep 2019 - 
-    Details: Corpus Linguistics, Computational Linguistics, Digital Philology
+    Date: Sep 2019 – ongoing 
+    Details: Corpus linguistics, computational linguistics, digital philology
+
+  - Course: Indonesian language course (Darmasiswa scholarship)
+    Place: Yogyakarta State University (UNY) | Yogyakarta
+    Date: Sep 2017 – Aug 2018
+    Details: Indonesian language, culture, music; Javanese language
 
   - Course: MA in Islamic Studies
     Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
-    Date: Sep 2014 - July 2017
+    Date: Sep 2014 – July 2017
     Details: Islamic literature, law, history, and culture; Arabic, Persian, Turkish, Urdu
+
+  - Course: Arabic language course (scholarship via the Republic of Tunisia)
+    Place: Institut Bourguiba des Langues Vivantes (IBLV) | Tunis, Tunisia
+    Date: Jan 2015 – June 2015
+    Details: Modern Standard Arabic
 
   - Course: BA in Korean Studies, Eastern Languages and Cultures
     Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
-    Date: Sep 2009 - Jan 2014
+    Date: Sep 2009 – Jan 2014
     Details: Finnish minor
 
   - Course: BA in Arabian Studies, Eastern Languages and Cultures
     Place: Eötvös Loránd University (ELTE) | Budapest, Hungary
-    Date: Sep 2009 - July 2014
+    Date: Sep 2009 – July 2014
     Details: East-Asian minor
 
 
-References:
-  - Name: Prof. HUANG Chu-Ren
-    Relation: Supervisor at PolyU
-    Contacts:
+# References:
+#   - Name: Prof. HUANG Chu-Ren
+#     Relation: Supervisor at PolyU
+#     Contacts:
     # - Icon: fas fa-phone
     #   Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: churen.huang@polyu.edu.hk
-    - Icon: fas fa-map-marker-alt
-      Info: Hong Kong
+    # - Icon: fas fa-envelope
+    #   Info: churen.huang@polyu.edu.hk
+    # - Icon: fas fa-map-marker-alt
+    #   Info: Hong Kong
 #   - Name: Person Two
 #     Relation: Boss at Super Cool Company
 #     Contacts:
@@ -129,8 +137,8 @@ Languages:
   - Name: Indonesian
     Level: B1
 
-Diplomas:
-  - IELTS (2019)
+# Diplomas:
+#   - IELTS (2019)
 
 Interests:
   - Languages
