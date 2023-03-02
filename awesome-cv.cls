@@ -155,7 +155,7 @@
     citecolor=awesome,
     filecolor=black,
     menucolor=black,
-    runcolor=awesome,
+    runcolor=pink,
     urlcolor=awesome,
     linktoc=page
     }
@@ -169,7 +169,7 @@
   \ifbool{acvSectionColorHighlight}{{\color{awesome}#1}}{#1}%
 }
 
-% % Awesome section color 3 letter long
+% % Awesome section color
 % \def\@sectioncolor#1#2#3{%
 %   \ifbool{acvSectionColorHighlight}{{\color{awesome}#1#2#3}}{#1#2#3}%
 % }
@@ -213,7 +213,6 @@
 % Configure styles for each CV elements
 % For fundamental structures
 \newcommand*{\headerfirstnamestyle}[1]{{\fontsize{32pt}{1em}\headerfontlight\color{graytext} #1}}
-\newcommand*{\headerphdstyle}[1]{{\fontsize{24pt}{1em}\headerfontlight\color{graytext} #1}} %manual
 \newcommand*{\headerlastnamestyle}[1]{{\fontsize{32pt}{1em}\headerfont\bfseries\color{text} #1}}
 \newcommand*{\headerpositionstyle}[1]{{\fontsize{12pt}{1em}\bodyfont\scshape\color{awesome} #1}} %7.6pt
 \newcommand*{\headeraddressstyle}[1]{{\fontsize{8pt}{1em}\headerfont\itshape\color{lighttext} #1}}
@@ -474,7 +473,7 @@
   \end{minipage}
   \begin{minipage}[c]{\headertextwidth}
     \ifthenelse{\equal{#1}{L}}{\raggedright}{\ifthenelse{\equal{#1}{R}}{\raggedleft}{\centering}}
-    \headerfirstnamestyle{\@firstname}\headerlastnamestyle{{}\acvHeaderNameDelim\@lastname}\headerphdstyle{\@phd}%
+    \headerfirstnamestyle{\@firstname}\headerlastnamestyle{{}\acvHeaderNameDelim\@lastname}\headerfirstnamestyle{\fontsize{24pt}{1em}\@phd}%
     \\[\acvHeaderAfterNameSkip]%
     \ifthenelse{\isundefined{\@position}}{}{\headerpositionstyle{\@position\\[\acvHeaderAfterPositionSkip]}}%
     \ifthenelse{\isundefined{\@address}}{}{\headeraddressstyle{\@address\\[\acvHeaderAfterAddressSkip]}}%
