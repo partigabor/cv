@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.25)  2 MAR 2023 17:20
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.12.25)  7 MAR 2023 13:50
  restricted system commands enabled.
  file:line:error style messages enabled.
-**c:/Users/parti/Projects/cv-latex/cv
-(c:/Users/parti/Projects/cv-latex/cv.tex
+**"c:/Users/parti/OneDrive - The Hong Kong Polytechnic University/Projects/cv-latex/cv"
+("c:/Users/parti/OneDrive - The Hong Kong Polytechnic University/Projects/cv-latex/cv.tex"
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
@@ -859,12 +859,12 @@ Here is how much of LuaTeX's memory you used:
  125086,1977958 words of node,token memory allocated
  650 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 83 glue_spec, 8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1876,3:643,4:675,5:1268,6:300,7:11198,8:46,9:1797,10:21,11:732
+   avail lists: 1:1,2:1876,3:643,4:675,5:1271,6:300,7:11198,8:46,9:1797,10:21,11:732
  53160 multiletter control sequences out of 65536+600000
- 103 fonts using 21848899 bytes
- 114i,12n,115p,568b,610s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103 fonts using 21848771 bytes
+ 114i,12n,115p,618b,610s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono9-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><c:/texlive/2022/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Regular-Italic.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Regular.otf>
-Output written on cv.pdf (2 pages, 56438 bytes).
+Output written on cv.pdf (2 pages, 56507 bytes).
 
 PDF statistics: 132 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
