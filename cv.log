@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.3.18)  22 MAR 2023 14:09
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.3.18)  24 JUN 2023 13:18
  restricted system commands enabled.
  file:line:error style messages enabled.
-**c:/Users/parti/GitHub/cv-latex/cv
+**c:/Users/parti/GitHub/cv-latex/cv.tex
 (c:/Users/parti/GitHub/cv-latex/cv.tex
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
@@ -647,10 +647,9 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 161.
 )
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 76.
-
-No file cv.aux.
-
+ (./cv.aux)
 \openout1 = cv.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
@@ -671,6 +670,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
@@ -771,6 +771,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 76.
 Package hyperref Info: Link coloring ON on input line 76.
+ (./cv.out) (./cv.out)
 \@outlinefile=\write4
 
 \openout4 = cv.out
@@ -845,6 +846,10 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 9.
 ) (./cv/presentation.tex
 
+LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 14.
+
+
 LaTeX Font Warning: Font shape `TU/SourceSansPro(2)/m/scit' undefined
 (Font)              using `TU/SourceSansPro(2)/m/it' instead on input line 14.
 
@@ -854,26 +859,23 @@ LaTeX Font Warning: Font shape `TU/SourceSansPro(2)/m/scit' undefined
 
 ) [2] (./cv.aux)
 
-Package rerunfilecheck Warning: File `cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: Checksums for `cv.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 34324 strings out of 478290
+ 34343 strings out of 478290
  156364,1977958 words of node,token memory allocated
  645 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 82 glue_spec, 8 attribute_list, 2 write nodes
-   avail lists: 1:2,2:2032,3:691,4:717,5:1373,6:324,7:12020,8:46,9:1944,10:21,11:789
- 53360 multiletter control sequences out of 65536+600000
- 103 fonts using 21848771 bytes
- 114i,12n,115p,566b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
+   avail lists: 1:1,2:2169,3:742,4:759,5:1535,6:348,7:13223,8:46,9:2094,10:21,11:900
+ 53363 multiletter control sequences out of 65536+600000
+ 104 fonts using 21923283 bytes
+ 114i,12n,115p,570b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono9-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><c:/texlive/2022/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Regular-Italic.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/impallari/raleway/Raleway-Regular.otf>
-Output written on cv.pdf (2 pages, 56702 bytes).
+Output written on cv.pdf (2 pages, 57494 bytes).
 
 PDF statistics: 132 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
