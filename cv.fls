@@ -462,8 +462,6 @@ INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
-INPUT ./cv/awards.tex
-INPUT ./cv/awards.tex
 INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./cv/publications.tex
 INPUT ./cv/publications.tex
