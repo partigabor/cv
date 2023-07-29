@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1690424178 "c:/Users/parti/GitHub/cv-latex/cv.tex" "cv.pdf" "cv" 1690424182 0
+["lualatex"] 1690620195 "c:/Users/parti/GitHub/cv-latex/cv.tex" "cv.pdf" "cv" 1690620201 0
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc" 1679465162 65319 5e5fe6a7280f910859882c938cb3d264 ""
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1679465180 637076 0833d7c43ba0859b3566aeb9e6ee81a2 ""
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc" 1679465182 81867 4883ba470fd3f2c90c376c3d5d9a9346 ""
@@ -256,12 +256,12 @@
   "c:/texlive/2022/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1679131134 13565 83bac25a8cf8630acccd6a7f8bb9f791 ""
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1679142952 4662804 131178ccc9b2f4741a821427ce79dce1 ""
   "c:/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt" 1679143170 11866395 cb2f6673bd622e36485cd7b63b2f37c0 ""
-  "cv.aux" 1690424181 554 04ae3964aa57b78538b565d0454a3de2 "lualatex"
-  "cv.out" 1690424181 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "cv.aux" 1690620201 554 04ae3964aa57b78538b565d0454a3de2 "lualatex"
+  "cv.out" 1690620200 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
   "cv.tex" 1690424178 3681 0a9e0bd53adb02c053727fd275420961 ""
   "cv/education.tex" 1687583920 2573 fbfffdc32d5a461ba9a2764e5d4ab61e ""
-  "cv/experience.tex" 1678168218 762 7ef2536857d29a70535294fae0d25557 ""
-  "cv/extracurricular.tex" 1687583917 1846 d609cc444aade8a783ebcb9c6ed8f17d ""
+  "cv/experience.tex" 1690620193 1156 2c9c21bd414c16a031aa699cb472edbc ""
+  "cv/extracurricular.tex" 1690620193 1452 b17c409a2ea6788708f1150c13656367 ""
   "cv/presentation.tex" 1687583625 1232 8a96458111678a586c1ed1fd7c3a49d6 ""
   "cv/publications.tex" 1677718710 1659 d4be29ee7e8ac17a050cce1fe2cf3665 ""
   "cv/skills.tex" 1677748472 587 48a88aa5e03b76854dd0d5476790818c ""
