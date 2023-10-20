@@ -1,6 +1,6 @@
-PWD c:/Users/parti/GitHub/cv-latex
+PWD c:/Users/parti/GitHub/cv
 INPUT c:/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/parti/GitHub/cv-latex/cv.tex
+INPUT c:/Users/parti/GitHub/cv/cv.tex
 OUTPUT cv.log
 INPUT c:/texlive/2022/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/ltluatex.lua
